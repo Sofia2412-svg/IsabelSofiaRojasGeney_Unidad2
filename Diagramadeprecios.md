@@ -8,4 +8,4 @@ Analicemos el siguiente problema y representamos su solucion mediante algoritmo 
     1. PRECIO FINAL    
 ### Mostrar en pantalla 💻:
     1. PRECIO FINAL
-  ![Diagrama de flujo](Diagramadeprecios.png)
+  ![Diagrama de flujo](Diagramadelapices.png)
