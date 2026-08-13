@@ -7,4 +7,4 @@ Un acuario necesita determinar cuántos litros o galones (eso lo decide el usu
     1. PASAR LOS CM A LITROS/GALONES
 ### Mostrar en pantalla 💻:
     1. LITROS PARA LLENAR LA PISCINA
-![Diagrama de flujo](Diagramadelacuario.png)
+![Diagrama de flujo](Diagramadelacuadrio.png)
