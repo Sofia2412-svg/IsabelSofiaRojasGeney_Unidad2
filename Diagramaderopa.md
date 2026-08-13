@@ -21,4 +21,4 @@ Inicio
    Precio total = Precio de ropa * Descuento  
    Imprimir "Costo total", Precio total  
 Fin  
-![Diagrama de flujo](Diagramaderopa.png)
+![Diagrama de flujo](Precioderopa.png)
