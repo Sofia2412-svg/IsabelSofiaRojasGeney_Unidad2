@@ -9,7 +9,8 @@ Analicemos el siguiente problema y representamos su solucion mediante algoritmo 
 ## Mostrar en pantalla 💻:
     1. PRECIO FINAL
 ## Pseudocodigo
-'''Inicio  
+```
+Inicio  
   Leer Cant_lap  
    Si (Cant_lap >= 1000)  
      Precio_unitario = 85  
@@ -17,6 +18,7 @@ Analicemos el siguiente problema y representamos su solucion mediante algoritmo 
      Precio_unitario = 90  
   Fin si  
    Precio total = Cant_lap * Precio_unitario  
-   Imprimir "Precio total" Total  '''
-Fin
+   Imprimir "Precio total" Total  
+Fin. 
+```
   ![Diagrama de flujo](Diagramadelapices.png)
