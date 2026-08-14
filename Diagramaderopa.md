@@ -11,6 +11,7 @@ Un almacén de ropa tiene una promoción: por compras superiores a $250 000 se l
 ## Mostrar en pantalla 💻:
     1. PRECIO TOTAL
 ## Pseudocodigo
+```
 Inicio   
     Leer "Precio de ropa"  
     Si (Precio de ropa > 250000)  
@@ -20,5 +21,6 @@ Inicio
     Fin Si   
    Precio total = Precio de ropa * Descuento  
    Imprimir "Costo total", Precio total  
-Fin  
+Fin
+```
 ![Diagrama de flujo](Precioderopa.png)
